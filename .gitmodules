@@ -1,3 +1,6 @@
 [submodule "portfolio"]
 	path = portfolio
 	url = git@github.com:AbdulmalikAbdulmawla/AbdulmalikAbdulmawla.github.io.git
+[submodule "unfallatlas-case-study"]
+	path = unfallatlas-case-study
+	url = git@github.com:AbdulmalikAbdulmawla/unfallatlas-case-study.git
